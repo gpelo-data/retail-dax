@@ -41,8 +41,8 @@ dashboard-ventas/
 ## 📊 Fuente de Datos
 
 - **Tablas de hechos**:  
-    `factVentas` - detalles de las ventas
-    `factDetalles` - detalles de las ventas
+  - `factVentas` - detalles de las ventas
+  - `factDetalles` - detalles de las ventas
 - **Dimensiones**: 
   - `dimProducto` - Información de productos y categorías
   - `dimCalendario` - Dimensión temporal
@@ -91,4 +91,4 @@ sqlalchemy
 **Tu Nombre**
 - GitHub: [@gpelo-data](https://github.com/gpelo-data)
 - LinkedIn: [Gastón Peló](https://linkedin.com/in/gpelo-data)
-- Email: gaston.pelo.contacto@gmai.com
+- Email: gaston.pelo.contacto@gmail.com
