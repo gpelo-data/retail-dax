@@ -79,11 +79,12 @@ pandas
 numpy  
 matplotlib  
 seaborn  
+os  
 sqlalchemy
 ```
 ### Notebook
 
-[Notebook de python](https://www.ejemplo.com)
+[Notebook de python](https://github.com/gpelo-data/retail-dax/blob/main/docs/scripts/analisis-ciclo-vida-de-clientes.ipynb)
 
 
 ## 📧 Contacto
